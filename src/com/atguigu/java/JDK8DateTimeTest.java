@@ -29,5 +29,6 @@ public class JDK8DateTimeTest {
         System.out.println("修改2");
         System.out.println("hello hot-fix");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
