@@ -31,5 +31,6 @@ public class JDK8DateTimeTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("吃中饭了！")
     }
 }
